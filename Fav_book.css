@@ -1,0 +1,72 @@
+.container{
+    width: 1520px;
+
+}
+
+h1{
+    width: 1520px;
+    height: 100px;
+    background-color: bisque;
+    text-align: center;
+    padding-top: 50px;
+}
+img{
+    width: 500px;
+    height: 350px;
+    padding-left: 250px;
+
+}
+aside{
+    /* Biryani */
+    width: 400px;
+    height: 250px;
+    vertical-align: top;
+    display: inline-block;
+    margin-left: 80px;
+    padding-left: 10px;
+    background-color: lightpink;
+}
+
+aside2{
+  /* about restaurant */
+    width: 490px;
+    height: 515px;
+    vertical-align: top;
+    display: inline-block;
+    margin-left: 250px;
+    padding-left: 10px;
+    background-color: lightgoldenrodyellow;
+    
+}
+aside1{
+    /* Mutton biryani */
+    margin: -80px;
+    width: 400px;
+    height: 215px;
+    vertical-align: top;
+    display: inline-block;
+    padding-left: 10px;
+    margin-left: 80px;
+    background-color: lightslategray;
+}
+aside3 {
+    /* prawns biryani */
+    width: 400px;
+    height: 215px;
+    vertical-align:top;
+    display: inline-block;
+    padding-left: 15px;
+    background-color: lightgreen;
+    margin: -335px;
+    margin-top: 145px;
+    
+}
+h2{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    margin: 0;
+}
